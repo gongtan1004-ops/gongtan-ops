@@ -2,7 +2,7 @@
 
 > **파일 생성 일시**: 2026-11-10 13:25 (KST)  
 > **작성 주체**: 피클 (Pickle, 공탄 현장 총괄 실행 에이전트)  
-> **저장소**: `https://github.com/gongtan1004-ops/gongtan-ops` (Private)  
+> **저장소**: `https://github.com/gongtan1004-ops/gongtan-ops` (Public)  
 
 ---
 
